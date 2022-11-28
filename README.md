@@ -17,7 +17,7 @@
    <img src="http://mazandi.herokuapp.com/api?handle=jakang0303&theme=warm" align="left"/>
   
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jakang0303)](https://solved.ac/jakang0303){: align="right"}
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jakang0303)](https://solved.ac/jakang0303)
   
  
   
