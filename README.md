@@ -4,7 +4,7 @@
   
 </div>
   
-  ***
+
   
 <div a align=center>
   
@@ -12,6 +12,8 @@
   
 </div>
 
+  ***
+  
 <div a align=center>
   
    <img src="http://mazandi.herokuapp.com/api?handle=jakang0303&theme=warm" align="left"/>
