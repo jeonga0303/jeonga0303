@@ -25,6 +25,8 @@
   
 ![Jenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonga0303&show_icons=true&theme=nord)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jakang)](https://velog.io/@jakang)
+  
  </div>
 
 
