@@ -15,6 +15,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jakang0303)](https://solved.ac/jakang0303)
 
-![Jenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonga0303&show_icons=true&theme=rose_pine)
+![Jenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonga0303&show_icons=true&theme=nord)
 
 
