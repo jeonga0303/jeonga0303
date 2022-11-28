@@ -25,7 +25,7 @@
 
  <div a align=center>
   
-![New Piskel (1)](https://user-images.githubusercontent.com/52391624/204184288-33592fc1-c241-426f-aade-d00cb3410d7a.gif)
+  <img src="https://user-images.githubusercontent.com/52391624/204184288-33592fc1-c241-426f-aade-d00cb3410d7a.gif" align="left">
   
 ![Jenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonga0303&show_icons=true&theme=nord)
 
