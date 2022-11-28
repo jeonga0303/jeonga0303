@@ -12,19 +12,15 @@
   
 </div>
 
-<div a align=left>
+<div a align=center>
 
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jakang0303)](https://solved.ac/jakang0303)
 
-</div>
-
-<div a align=right>
-  
   <img src="http://mazandi.herokuapp.com/api?handle=jakang0303&theme=warm"/>
   
- </div>
- 
+</div>
+
  <div a align=center>
   
 ![Jenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonga0303&show_icons=true&theme=nord)
