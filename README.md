@@ -14,14 +14,11 @@
 
 <div a align=center>
   
-<figure>
   
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jakang0303)](https://solved.ac/jakang0303)
-
-  <img src="http://mazandi.herokuapp.com/api?handle=jakang0303&theme=warm"/>
-
-  figure>
+  
+  <img src="http://mazandi.herokuapp.com/api?handle=jakang0303&theme=warm" align="left"/>
   
 </div>
 
