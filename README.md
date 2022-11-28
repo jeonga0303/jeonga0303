@@ -27,6 +27,9 @@
 
 ***
 
+
+> This is my first NFT 🌠, [Wanna buy it?](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/69844866287550446491537957394690427153373900455078676629001238745501447225345/)
+
  <div a align=center>
   
   <img src="https://user-images.githubusercontent.com/52391624/204186577-b42f216e-7e96-41ed-b3f0-1c6dc8a0523c.gif" align="left">
