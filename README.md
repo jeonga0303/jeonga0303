@@ -25,7 +25,7 @@
 
  <div a align=center>
   
-  <img src="https://user-images.githubusercontent.com/52391624/204185457-8e906d8c-244e-429e-bbea-b89163ca4e26" align="left">
+  <img src="https://user-images.githubusercontent.com/52391624/204185457-8e906d8c-244e-429e-bbea-b89163ca4e26.gif" align="left">
 
 ![Jenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonga0303&show_icons=true&theme=nord)
 
