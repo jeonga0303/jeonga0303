@@ -25,6 +25,8 @@
 
  <div a align=center>
   
+![New Piskel (1)](https://user-images.githubusercontent.com/52391624/204184288-33592fc1-c241-426f-aade-d00cb3410d7a.gif)
+  
 ![Jenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonga0303&show_icons=true&theme=nord)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jakang)](https://velog.io/@jakang)
